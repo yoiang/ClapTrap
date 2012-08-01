@@ -1,0 +1,6 @@
+[submodule "libs/openFrameworks"]
+	path = libs/openFrameworks
+	url = git@github.com:lumoslabs/openFrameworks.git
+[submodule "addons/ofxGeneric"]
+	path = addons/ofxGeneric
+	url = git@github.com:lumoslabs/ofxGeneric.git

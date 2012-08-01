@@ -1,0 +1,15 @@
+#include "SharedProject.xcconfig"
+
+#include "../../addons/ofxGeneric/configs/SharedRelease.xcconfig"
+
+//GCC_REUSE_STRINGS = NO;
+//GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+
+BUILD_BUNDLE_ID_SUFFIX = Release
+BUILD_DEFAULT_SUFFIX = 
+BUILD_ICON_SUFFIX = 
+BUILD_NAME_SUFFIX = REL
+
+CODE_SIGN_ENTITLEMENTS =
+
+LIBRARY_SEARCH_PATHS = $(inherited)
